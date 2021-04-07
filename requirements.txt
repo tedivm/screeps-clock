@@ -1,5 +1,5 @@
 Beaker==1.8.0
 -e git+https://github.com/screepers/python-screeps.git@master#egg=screepsapi
-flask==0.12.2
+flask==1.0
 flask-cors==3.0.2
 uWSGI==2.0.15
